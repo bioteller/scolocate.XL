@@ -25,8 +25,8 @@ p
 * gene1: exactly the same as the gene name in Seurat_object, sensitive to lower or upper case (red dots on the final plot)
 * gene2: exactly the same as the gene name in Seurat_object, sensitive to lower or upper case (green dots on the final plot)
 > Red points for gene1 while green for gene2, gradient from red to green represents co-expression. More red, the higher expression of Gene1, More green, the higher expression of Gene2.Gray dots means no expression of any of them
-* reduction: "pca","tsne" or "umap", depending on what strategies you applied with seurat3,  "umap" for default
-* data_type: "data" or "scale.data", "scale.data" for defalut setting
+* reduction: Choose "pca","tsne" or "umap" for reduction method, depending on what strategies you applied with seurat3,  "umap" for default
+* data_type: Please select "data" or "scale.data" for normalized matrix from Seurat3, "scale.data" for defalut setting
 * size_point: size of points. default is 2.
 
 ### Acknowledge 
