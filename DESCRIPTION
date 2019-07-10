@@ -1,7 +1,7 @@
 Package: scolocate.XL
 Type: Package
 Title: Colocalization plot for Seurat object
-Version: 0.5.0
+Version: 0.5.2
 Author: Li,Xiaobo (lixiaobo@tmu.edu.cn)
 Maintainer: The package maintainer <lixiaobo@tmu.edu.c>
 Description: Colocalization plot for Seurat object
