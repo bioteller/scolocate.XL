@@ -1,4 +1,4 @@
-## scolocate.XL: A simple R package for colocalization plot for 2 genes at one time on a seurat reduction map
+## scolocate.XL: A simple R package for 2 genes colocalization plot on one seurat reduction map
 
 Colocalization plot for Seurat object. For @木木小木 special edition (单细胞转录组学习交流群 of 生物技能树)
 
@@ -8,6 +8,7 @@ Li, Xiaobo (TMU; lixiaobo@tmu.edu.cn)
 
 ### Install  
 ```R
+install.packages("devtools")
 devtools::install_github("bioteller/scolocate.XL")
 ```
 
