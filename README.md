@@ -2,6 +2,9 @@
 
 Colocalization plot for Seurat object. For @木木小木 special edition (单细胞转录组学习交流群 of 生物技能树)
 
+> Need Seurat v3.0; ggplot2.
+
+
 ### Author
 Li, Xiaobo (TMU; lixiaobo@tmu.edu.cn)
 
