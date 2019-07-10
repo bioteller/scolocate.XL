@@ -18,7 +18,8 @@ devtools::install_github("bioteller/scolocate.XL")
 ### How to use
 ```R
 library(scolocate.XL)
-colocate(seurat_object = seurat_object,gene1 = gene1,gene2 = gene2,...)
+p <- colocate(seurat_object = seurat_object,gene1 = gene1,gene2 = gene2,...)
+p
 ```
 * seurat_object: seurat3.0 object with reduction of "umap" or "tsne".
 * gene1: exactly the same as the gene name in Seurat_object, sensitive to lower or upper case (red dots on the final plot)
