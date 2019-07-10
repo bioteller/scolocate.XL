@@ -31,7 +31,7 @@ p
 
 ### Acknowledge 
 
-> Appreciated @吃错药萌萌哒’s debugging and valuable suggestion.
+> Appreciated @吃了药萌萌哒’s debugging and valuable suggestion.
 
 
 ### DEFENITELY NEED OPTIMIZED , WELCOME to DEBUG.
